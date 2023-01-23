@@ -35,7 +35,7 @@ def max_marks(marks):
     return large
 ```
 
-iii) # To find the maximum marks without using builtin functions.
+### iii) To find the maximum marks without using builtin functions.
 ```Python
 ''' 
 Program to the maximum marks without using builtin functions.
@@ -53,11 +53,11 @@ def max_marks(list1):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
-## (i)
+### i) To find the maximum of marks using the list method sort.
 !['output'](/Screenshot_20230123_070448.png)
-## (ii)
+### ii) To find the maximum marks using the list method max().
 !['output'](/Screenshot_20230123_070448.png)
-## (iii)
+### iii) To find the maximum marks without using builtin functions.
 !['output'](/Screenshot_20230123_070448.png)
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
